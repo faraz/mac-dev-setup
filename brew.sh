@@ -140,5 +140,8 @@ brew install httpie
 # Install developer friendly quick look plugins; see https://github.com/sindresorhus/quick-look-plugins
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip qlimagesize webpquicklook suspicious-package quicklookase qlvideo jq
 
+brew install packer
+brew install terraform
+
 # Remove outdated versions from the cellar.
 brew cleanup
